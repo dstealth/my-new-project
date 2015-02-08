@@ -1,0 +1,18 @@
+<html><body>
+
+	<form action=start.cgi method=GET>
+	
+	Input name:
+	<input type=text name="name" value="Unknown"><br>
+	<?php
+	$name="name"
+	?>
+
+	
+	Input date:
+	<input type=text name="born" value="Unknown"><br>
+
+	<input type=submit value="Press the button">
+
+</body></html>
+

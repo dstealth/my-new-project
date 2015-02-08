@@ -1,0 +1,10 @@
+<?php
+echo "<html><body>";
+echo '<form action=script.cgi method=GET>';
+echo '<input type=text name="name" value="Unknown"><br>';
+
+echo '<input type=text name="born" value="Unknown"><br>';
+
+echo '<input type=sybmit value="Press the button">';
+echo "</body></html>";
+?>

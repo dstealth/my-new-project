@@ -1,0 +1,4 @@
+<html><body>
+	Hello, <?php $name ?>! I know, that date of you birth is <?php $born ?>!
+</body></html>
+
